@@ -1,0 +1,38 @@
+The diner doesn't appear to have a name. A vinyl banner slung above the door simply reads: "24 Hours." It only has one window, behind which the blinds are tightly closed.
+[Try the door.]
+    Conway tries the door.
+    The door swings open easily. A bell rings nearby. The interior of the diner is pitch black.
+    [Walk in.]
+        Conway enters the diner and closes the door behind him.
+        Someone shines a flashlight in Conway's eyes. The light is almost immediately blinding, but in the instant it switches on he can make out a few figures inside:
+        Two old men in trucker hats sit in a corner booth, with a checkers board set on the table between them.
+        A young woman standing behind the counter in an apron must be a waitress.
+        The cook stares blankly from the kitchen.
+        The door slams shut and the room is dark again.
+        [Sit down at the counter.]
+            Conway walks in the direction of the counter.
+            He hits his knee on something hard and metallic, winces quietly, and then carefully finds his way to a stool. He places his hand on the counter.
+            Another hand, a young woman's, rests itself on his. She guides his fingers to a laminated menu. Conway closes his eyes, opens them, maybe closes them again. Impossible to differentiate.
+            [Order coffee.]
+            [Order waffles.]
+            [Ask her about the basketball game.]
+                The Wildcats are struggling, but today's was an important game. They could have rallied. Perhaps the waitress heard the game from the kitchen; or maybe she's a fan herself. Conway clears his throat.
+                He feels a warm hand against his cheek, and freezes. Her fingers run across the stubble of his chin. He feels like apologizing. She leans forward, and so does he -
+                [END]
+        [Try to open the door and leave]
+    [Wait a moment to adjust to the darkness.]
+        Conway stands in the doorway, waiting for his eyes to adjust.
+        A bit of errant light from the nearby highway creeps through the front door, and gradually Conway is able to make out a few figures inside:
+        Two old men in trucker hats sit in a corner booth, with a checkers board set on the table between them.
+        A young woman standing behind the counter in an apron must be a waitress.
+        The cook stares blankly from the kitchen.
+        The door slams shut and the room is dark again.
+        [Sit down at the counter.]
+            Conway walks in the direction of the counter.
+            He hits his knee on something hard and metallic, winces quietly, and then carefully finds his way to a stool. He places his hand on the counter.
+            Another hand, a young woman's, rests itself on his. She guides his fingers to a laminated menu. Conway closes his eyes, opens them, maybe closes them again. Impossible to differentiate.
+        [Try to open the door and leave.]
+            Conway stumbles back out through the door, and returns to his truck.
+    [Leave.]
+[Drive away.]
+    Conway drives away.

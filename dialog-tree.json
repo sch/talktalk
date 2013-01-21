@@ -1,0 +1,9 @@
+{
+	"WORDS":"The diner doesn't appear to have a name. A vinyl banner slung above the door simply reads: \"24 Hours.\" It only has one window, behind which the blinds are tightly closed.",
+	"Try the door.": {
+		"WORDS": "Conway tries the door.\nThe door swings open easily. A bell rings nearby. The interior of the diner is pitch black.",
+		"choices":
+`
+		},
+		"Drive away.": ["Conway drives away.", null]
+}
