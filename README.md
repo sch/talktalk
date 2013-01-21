@@ -23,5 +23,5 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 _(Nothing yet)_
 
 ## License
-Copyright (c) 2013 Adrian Schaedle  
+Copyright (c) 2013 Adrian Schaedle
 Licensed under the MIT license.
